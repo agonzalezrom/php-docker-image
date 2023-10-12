@@ -50,7 +50,3 @@ This image uses a non-root user `www` to run applications, enhancing container s
 Your contributions, issues, and feature requests are welcome!
 
 Feel free to check [issues page](../../issues). You can also take a look at the [contributing guide](CONTRIBUTING.md).
-
-## 🛠️ Maintenance
-
-This Docker image is maintained by [Your Name or Your Organization Name](Your Website/Profile Link).
